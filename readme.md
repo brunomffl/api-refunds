@@ -157,10 +157,6 @@ npm run build  # Build para produção
 - ✅ Middleware de tratamento de erros
 - ✅ Validação de tipos de arquivo no upload
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
-
 ## 👨‍💻 Autor
 
 **GitHub** - [@brunomffl](https://github.com/brunomffl)  
