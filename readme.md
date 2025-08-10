@@ -163,4 +163,5 @@ Este projeto está sob a licença MIT.
 
 ## 👨‍💻 Autor
 
-**Bruno Cardoso** - [GitHub](https://github.com/brunomffl)
+**GitHub** - [@brunomffl](https://github.com/brunomffl)
+**Linkedin** - [Bruno Cardoso da Silva](https://www.linkedin.com/in/brunomffl/)
